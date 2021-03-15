@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf3b1e93-4936-4788-9518-1b5845b6fb2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="C:\Program Files (x86)\Elm\0.19.1\bin\elm.exe" elmFormatPath="C:\Users\user\AppData\Roaming\npm\elm-format.cmd" elmTestPath="C:\Users\user\AppData\Roaming\npm\elm-test.cmd" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="ProjectId" id="1lmjHwCPQaJzn8D6bVzHiACBkzg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab11_FP" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3b1e93-4936-4788-9518-1b5845b6fb2f" name="Default Changelist" comment="" />
+      <created>1608209078469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608209078469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1608388171267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608388171267" />
+    <state x="816" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1608209274903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="816" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1608209274903" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1608235310935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1608235310935" />
+  </component>
+</project>
